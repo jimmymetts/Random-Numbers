@@ -1,0 +1,11 @@
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/bin/Debug/netcoreapp2.2/Random-Numbers.deps.json
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/bin/Debug/netcoreapp2.2/Random-Numbers.runtimeconfig.json
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/bin/Debug/netcoreapp2.2/Random-Numbers.runtimeconfig.dev.json
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/bin/Debug/netcoreapp2.2/Random-Numbers.dll
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/bin/Debug/netcoreapp2.2/Random-Numbers.pdb
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/obj/Debug/netcoreapp2.2/Random-Numbers.csprojAssemblyReference.cache
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/obj/Debug/netcoreapp2.2/Random-Numbers.csproj.CoreCompileInputs.cache
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/obj/Debug/netcoreapp2.2/Random-Numbers.AssemblyInfoInputs.cache
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/obj/Debug/netcoreapp2.2/Random-Numbers.AssemblyInfo.cs
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/obj/Debug/netcoreapp2.2/Random-Numbers.dll
+/Users/metts/WorkSpace-BackEnd/Random-Numbers/obj/Debug/netcoreapp2.2/Random-Numbers.pdb
